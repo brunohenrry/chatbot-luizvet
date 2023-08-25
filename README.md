@@ -23,5 +23,3 @@ O chatbot da LuizVet é uma parte essencial do nosso software, fornecendo respos
 - Mantenha o código organizado e documentado para facilitar futuras atualizações.
 
 ---
-
-Este é apenas um exemplo de como você pode adicionar informações sobre o chatbot ao seu README. Lembre-se de personalizar o conteúdo para refletir as características únicas do seu software e incluir detalhes relevantes para os usuários que possam estar interagindo com o chatbot.
